@@ -1,0 +1,11 @@
+D:\SoftUni\Other\Candidate Tasks\MMLogoTask\MMLogo\bin\Debug\netcoreapp3.1\MMLogo.exe
+D:\SoftUni\Other\Candidate Tasks\MMLogoTask\MMLogo\bin\Debug\netcoreapp3.1\MMLogo.deps.json
+D:\SoftUni\Other\Candidate Tasks\MMLogoTask\MMLogo\bin\Debug\netcoreapp3.1\MMLogo.runtimeconfig.json
+D:\SoftUni\Other\Candidate Tasks\MMLogoTask\MMLogo\bin\Debug\netcoreapp3.1\MMLogo.runtimeconfig.dev.json
+D:\SoftUni\Other\Candidate Tasks\MMLogoTask\MMLogo\bin\Debug\netcoreapp3.1\MMLogo.dll
+D:\SoftUni\Other\Candidate Tasks\MMLogoTask\MMLogo\bin\Debug\netcoreapp3.1\MMLogo.pdb
+D:\SoftUni\Other\Candidate Tasks\MMLogoTask\MMLogo\obj\Debug\netcoreapp3.1\MMLogo.csprojAssemblyReference.cache
+D:\SoftUni\Other\Candidate Tasks\MMLogoTask\MMLogo\obj\Debug\netcoreapp3.1\MMLogo.AssemblyInfoInputs.cache
+D:\SoftUni\Other\Candidate Tasks\MMLogoTask\MMLogo\obj\Debug\netcoreapp3.1\MMLogo.AssemblyInfo.cs
+D:\SoftUni\Other\Candidate Tasks\MMLogoTask\MMLogo\obj\Debug\netcoreapp3.1\MMLogo.dll
+D:\SoftUni\Other\Candidate Tasks\MMLogoTask\MMLogo\obj\Debug\netcoreapp3.1\MMLogo.pdb
